@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git:*)",
+      "Bash(flutter:*)",
+      "Bash(python3:*)",
+      "Bash(brew:*)",
+      "Bash(jq:*)",
+      "Bash(curl:*)",
+      "Bash(gh:*)",
+      "Bash(docker:*)",
+      "Bash(docker-compose:*)",
+      "Bash(vi:*)",
+      "Bash(history:*)",
+      "Bash(ls:*)",
+      "Bash(cd:*)",
+      "Bash(cat:*)",
+      "Bash(wget:*)",
+      "Bash(make:*)",
+      "Bash(go:*)",
+      "Bash(gradlew:*)",
+      "Bash(mkdir:*)",
+      "Bash(uv:*)",
+      "Bash(pwd:*)"
+    ],
+    "deny": []
+  }
+}
